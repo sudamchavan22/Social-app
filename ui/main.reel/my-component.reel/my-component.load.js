@@ -1,0 +1,1 @@
+montageDefine("0d24b17","ui/main.reel/my-component.reel/my-component",{dependencies:["montage/ui/component"],factory:function(e,n){var t=e("montage/ui/component").Component;n.MyComponent=t.specialize({constructor:{value:function(){this.super()}}})}});
